@@ -1,0 +1,9 @@
+Package: com.orikad.chromizer
+Name: Chromizer
+Depends: mobilesubstrate
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Make Google Chrome for iOS even better!
+Maintainer: Ori Kadosh
+Author: Ori Kadosh
+Section: Tweaks
